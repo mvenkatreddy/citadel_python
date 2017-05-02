@@ -1,0 +1,3 @@
+name: Chankey Pathak
+github: https://github.com/chankeypathak
+email: chankey@cpan.org
